@@ -8,7 +8,7 @@
 This is a full-stack web application called **Student Freelance Platform**, designed to help students find and offer freelance jobs within their academic community.  
 
 ### Features:  
-- **Post and browse freelance tasks**: Students can create job listings and set a price for their tasks.  
+- **Post and browse freelance tasks**: Students can create job listings and set a price for their tasks.
 - **Apply for jobs**: Other students can apply for available tasks and earn money by solving them.  
 - **Messaging system**: Users can communicate via an integrated chat feature.  
 - **Rating & Reviews**: Employers can rate freelancers based on their performance.  
@@ -27,4 +27,5 @@ Ensure you have the following installed:
 - Node.js (>=16.0) and npm  
 - Angular CLI  
 - PostgreSQL (or SQLite)  
-- Git  
+- Git .
+  
