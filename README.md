@@ -27,4 +27,4 @@ Ensure you have the following installed:
 - Node.js (>=16.0) and npm  
 - Angular CLI  
 - PostgreSQL (or SQLite)  
-- Git  
+- Git  .
